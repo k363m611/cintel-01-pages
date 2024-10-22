@@ -1,4 +1,4 @@
-# My Website Title
+# CC 1.3 - NW Missouri State
 
 My first website using Markdown and GitHub Pages.
 
